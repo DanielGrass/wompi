@@ -154,7 +154,7 @@ if st.session_state.selected_main:
     elif st.session_state.selected_main == "3":
         
 
-        st.title("Modelo de Regresión - MSE")
+        st.title("3. Modelo de Regresión - MSE")
         st.write("Te presentan los siguientes resultados de unos modelos usados para resolver el mismo problema de regresión:")
 
         # Crear los datos de la tabla en un DataFrame
